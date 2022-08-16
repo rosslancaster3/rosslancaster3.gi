@@ -4,3 +4,12 @@ Hello. My name is Ross Lancaster. I recently completed graduate school with an M
 Try [Google](https://www.google.com/) for more info.
 
 ![Picture of me](./assets/gradphoto.JPG)
+
+---
+title: This will be used as the title-tag of the page head
+---
+
+hello
+=====
+
+**You are here!**
