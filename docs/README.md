@@ -3,4 +3,4 @@ Hello. My name is Ross Lancaster. I recently completed graduate school with an M
 
 Try [Google](https://www.google.com/) for more info.
 
-![Picture of me](./assets/Grad photo.jpg)
+![Picture of me](./assets/Grad photo.JPG)
